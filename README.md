@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋 I'm Bhavya Jamar!
+I'm a passionate full-stack developer who loves building meaningful and creative web experiences🤖🤟.
 
-<!--
-**jbhavyaa/jbhavyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on MERN stack projects and real-time web apps
 
-Here are some ideas to get you started:
+🌱 Always learning – currently diving deeper into system design and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I enjoy: React, Node.js, MongoDB, TypeScript, C++
+
+💬 Ask me about frontend magic, database juggling, or debugging nightmares
+
+🎯 My goal: Build products that are useful, accessible, and a little bit magical ✨
+
+⚡ Fun fact: I name my projects like they're band names 🎸
